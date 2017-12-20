@@ -2,119 +2,101 @@
   "productos": [
     {
       "nombre": "uno",
-      "categoria": "",
-      "subcategoria": "",
-      "descripcion": "",
-      "precio": 0,
-      "cantidad": 0,
+      "categoria": "Discos",
+      "subcategoria": "Rock",
+      "descripcion": "George Harrison: All things must pass",
+      "precio": 300,
+      "cantidad": 40,
       "imagenes": [
-        "../jsbfjsjf",
-        "../jsbfjsjf",
-        "tresera imagen.jpg"
+        "img/R-3624750-1479915561-9626.jpeg.jpg"
       ]
     },
     {
       "nombre": "dos",
-      "categoria": "",
-      "subcategoria": "",
-      "descripcion": "",
-      "precio": 0,
-      "cantidad": 0,
+      "categoria": "Discos",
+      "subcategoria": "Pop",
+      "descripcion": "Arcade Fire: The suburbs",
+      "precio": 450,
+      "cantidad": 80,
       "imagenes": [
-        "../jsbfjsjf",
-        "../jsbfjsjf",
-        "tresera imagen.jpg"
+        "img/Arcade_Fire_-_The_Suburbs.jpg"
       ]
     },
     {
       "nombre": "tres",
-      "categoria": "",
-      "subcategoria": "",
-      "descripcion": "",
-      "precio": 0,
-      "cantidad": 0,
+      "categoria": "Discos",
+      "subcategoria": "Punk",
+      "descripcion": "Los Saicos: Los Saicos",
+      "precio": 280,
+      "cantidad": 10,
       "imagenes": [
-        "../jsbfjsjf",
-        "../jsbfjsjf",
-        "tresera imagen.jpg"
+        "img/saicos.jpg"
       ]
     },
     {
-      "nombre": "quanto",
-      "categoria": "",
-      "subcategoria": "",
-      "descripcion": "",
-      "precio": 0,
-      "cantidad": 0,
+      "nombre": "cuatro",
+      "categoria": "Juegos",
+      "subcategoria": "Teg",
+      "descripcion": "Juego de mesa. Estrategia",
+      "precio": 500,
+      "cantidad": 200,
       "imagenes": [
-        "../jsbfjsjf",
-        "../jsbfjsjf",
-        "tresera imagen.jpg"
+        "img/tegpeque.jpg"
       ]
     },
     {
       "nombre": "cinco",
-      "categoria": "",
-      "subcategoria": "",
-      "descripcion": "",
-      "precio": 0,
-      "cantidad": 0,
+      "categoria": "Juegos",
+      "subcategoria": "Scrabble",
+      "descripcion": "Juego de mesa. Crucigramas",
+      "precio": 650,
+      "cantidad": 50,
       "imagenes": [
-        "../jsbfjsjf",
-        "../jsbfjsjf",
-        "tresera imagen.jpg"
+        "img/scrabble.jpg"
       ]
     },
     {
       "nombre": "seis",
-      "categoria": "",
-      "subcategoria": "",
-      "descripcion": "",
-      "precio": 0,
-      "cantidad": 0,
+      "categoria": "Juegos",
+      "subcategoria": "Carrera de mente",
+      "descripcion": "Juego de Mesa. Preguntas y respuestas",
+      "precio": 400,
+      "cantidad": 100,
       "imagenes": [
-        "../jsbfjsjf",
-        "../jsbfjsjf",
-        "tresera imagen.jpg"
+        "img/carrerademente.jpg_1810791533.jpg"
       ]
     },
     {
       "nombre": "siete",
-      "categoria": "",
-      "subcategoria": "",
-      "descripcion": "",
-      "precio": 0,
-      "cantidad": 0,
+      "categoria": "Accesorios",
+      "subcategoria": "Libretas",
+      "descripcion": "Libreta Mapa-Mundi",
+      "precio": 250,
+      "cantidad": 200,
       "imagenes": [
-        "../jsbfjsjf",
-        "../jsbfjsjf",
-        "tresera imagen.jpg"
+        "img/libreta.jpg"
       ]
     },
     {
       "nombre": "ocho",
-      "categoria": "",
-      "subcategoria": "",
-      "descripcion": "",
-      "precio": 0,
-      "cantidad": 0,
+      "categoria": "Accesorios",
+      "subcategoria": "Infusores",
+      "descripcion": "Infusor Robot para té",
+      "precio": 120,
+      "cantidad": 1000,
       "imagenes": [
-        "../jsbfjsjf",
-        "../jsbfjsjf",
-        "tresera imagen.jpg"
+        "img/Infusor-para-Te-Robot.jpg"
       ]
     },
     {
-      "nombre": "nuevo",
-      "categoria": "",
-      "subcategoria": "",
-      "descripcion": "",
-      "precio": 0,
-      "cantidad": 0,
+      "nombre": "nueve",
+      "categoria": "Accesorios",
+      "subcategoria": "Tazas",
+      "descripcion": "Taza de Nasa",
+      "precio": 380,
+      "cantidad": 100,
       "imagenes": [
-        "../jsbfjsjf",
-        "../jsbfjsjf",
-        "tresera imagen.jpg"
+        "img/tazaNasa.jpg"  
       ]
     }
   ]
