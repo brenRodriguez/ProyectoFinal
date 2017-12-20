@@ -1,0 +1,121 @@
+{
+  "productos": [
+    {
+      "nombre": "uno",
+      "categoria": "",
+      "subcategoria": "",
+      "descripcion": "",
+      "precio": 0,
+      "cantidad": 0,
+      "imagenes": [
+        "../jsbfjsjf",
+        "../jsbfjsjf",
+        "tresera imagen.jpg"
+      ]
+    },
+    {
+      "nombre": "dos",
+      "categoria": "",
+      "subcategoria": "",
+      "descripcion": "",
+      "precio": 0,
+      "cantidad": 0,
+      "imagenes": [
+        "../jsbfjsjf",
+        "../jsbfjsjf",
+        "tresera imagen.jpg"
+      ]
+    },
+    {
+      "nombre": "tres",
+      "categoria": "",
+      "subcategoria": "",
+      "descripcion": "",
+      "precio": 0,
+      "cantidad": 0,
+      "imagenes": [
+        "../jsbfjsjf",
+        "../jsbfjsjf",
+        "tresera imagen.jpg"
+      ]
+    },
+    {
+      "nombre": "quanto",
+      "categoria": "",
+      "subcategoria": "",
+      "descripcion": "",
+      "precio": 0,
+      "cantidad": 0,
+      "imagenes": [
+        "../jsbfjsjf",
+        "../jsbfjsjf",
+        "tresera imagen.jpg"
+      ]
+    },
+    {
+      "nombre": "cinco",
+      "categoria": "",
+      "subcategoria": "",
+      "descripcion": "",
+      "precio": 0,
+      "cantidad": 0,
+      "imagenes": [
+        "../jsbfjsjf",
+        "../jsbfjsjf",
+        "tresera imagen.jpg"
+      ]
+    },
+    {
+      "nombre": "seis",
+      "categoria": "",
+      "subcategoria": "",
+      "descripcion": "",
+      "precio": 0,
+      "cantidad": 0,
+      "imagenes": [
+        "../jsbfjsjf",
+        "../jsbfjsjf",
+        "tresera imagen.jpg"
+      ]
+    },
+    {
+      "nombre": "siete",
+      "categoria": "",
+      "subcategoria": "",
+      "descripcion": "",
+      "precio": 0,
+      "cantidad": 0,
+      "imagenes": [
+        "../jsbfjsjf",
+        "../jsbfjsjf",
+        "tresera imagen.jpg"
+      ]
+    },
+    {
+      "nombre": "ocho",
+      "categoria": "",
+      "subcategoria": "",
+      "descripcion": "",
+      "precio": 0,
+      "cantidad": 0,
+      "imagenes": [
+        "../jsbfjsjf",
+        "../jsbfjsjf",
+        "tresera imagen.jpg"
+      ]
+    },
+    {
+      "nombre": "nuevo",
+      "categoria": "",
+      "subcategoria": "",
+      "descripcion": "",
+      "precio": 0,
+      "cantidad": 0,
+      "imagenes": [
+        "../jsbfjsjf",
+        "../jsbfjsjf",
+        "tresera imagen.jpg"
+      ]
+    }
+  ]
+}
