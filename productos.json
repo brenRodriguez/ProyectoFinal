@@ -1,7 +1,7 @@
 {
   "productos": [
     {
-      "nombre": "uno",
+      "nombre": "George Harrison",
       "categoria": "Discos",
       "subcategoria": "Rock",
       "descripcion": "George Harrison: All things must pass",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "nombre": "cuatro",
+      "nombre": "Teg",
       "categoria": "Juegos",
       "subcategoria": "Teg",
       "descripcion": "Juego de mesa. Estrategia",
