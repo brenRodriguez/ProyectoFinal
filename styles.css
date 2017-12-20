@@ -1,0 +1,84 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body{
+	background:#FFF ;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container{
+	margin: 0 auto;
+	width:70%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap; 
+}
+
+/*******************HEADER***************************/
+
+header{
+	width:100%;
+	background:rgba(255,255,255,0.5);
+	padding: 50px 20px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+
+header .menu a{
+	text-decoration: none;
+	font-size: 18px;
+	color:black;
+	margin-right:40px;
+}
+
+header .menu a:hover{
+	font-weight: bold;
+}
+.contenedor-img{
+	display: flex;
+	justify-content: center;
+	margin-top: 25px;
+}
+.subContenedor{
+	display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-direction: row;  /* <--- Really freaking cool! */
+  align-items: center;
+}
+div img{
+	margin: 10px 5px;
+}
+button{
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	background-color: #ECEC49;
+	margin-bottom: 15px;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	background-color: #ECEC49;
+	text-decoration: none;
+}
+.cd1{
+	display: inline-block;
+}
+.track, ol{
+	display: inline-block;
+}
+
+.contenedor-img img{
+	width: 280px;
+	height: 280px;
+}
