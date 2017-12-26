@@ -1,0 +1,23 @@
+{
+  "name": "proyectofinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js & open http://localhost:3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenwanderlust87/ProyectoFinal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brenwanderlust87/ProyectoFinal/issues"
+  },
+  "homepage": "https://github.com/brenwanderlust87/ProyectoFinal#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
